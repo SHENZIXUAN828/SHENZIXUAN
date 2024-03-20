@@ -1,0 +1,44 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #957DAD; /* 浅紫色背景 */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+.project {
+    background-color: #EADDED; /* 更浅的紫色背景，用于项目区域 */
+    margin: 10px 0;
+    padding: 10px;
+}
+
+footer {
+    background-color: #957DAD; /* 浅紫色背景 */
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
